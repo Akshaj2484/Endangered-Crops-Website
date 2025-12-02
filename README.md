@@ -17,4 +17,4 @@ This repository contains a **school project website** about endangered crops, th
 
 ## 🌐 Live Website
 
-You can view the website live at: https://akshaj123.github.io/endangered-crops/
+You can view the website live at: https://akshaj123.github.io/Wndangered-Crops-Website/
